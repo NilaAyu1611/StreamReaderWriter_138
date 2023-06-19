@@ -20,5 +20,7 @@ int main()
 		/*akan dieksekuis karena array data hanya memiliki 3 lemeen*/
 	}
 	cout << "Baris Program Yang terakhit" << endl;
+	/*pennanda 2: bahwa program berjalan tanpa berhenti meskipun terjadi kesalahan*/
 
+	return 0;
 }
